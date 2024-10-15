@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your project **Clear Cosmetics**:
-
----
-
 # Clear Cosmetics
 
 **Clear Cosmetics** is a web application designed to bring transparency to shopping for makeup products. It helps users make more informed decisions by utilizing AI to analyze and compare products based on user queries.
