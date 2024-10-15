@@ -23,7 +23,7 @@ To run **Clear Cosmetics** locally, follow these steps:
 
 - Python 3.8+
 - Node.js 14+
-- OpenAI API Key (You can obtain this from [OpenAI](https://beta.openai.com/signup/))
+- OpenAI API Key (You can obtain this from [OpenAI](https://platform.openai.com/docs/overview))
 
 ### Backend Setup (Flask)
 
@@ -92,15 +92,11 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - [OpenAI](https://openai.com/) for providing the GPT-3.5 API.
 - [Chroma](https://www.trychroma.com/) for vector database support.
-- Everyone who contributed to the development of this project!
 
 ---
 
